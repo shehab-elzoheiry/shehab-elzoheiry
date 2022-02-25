@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shehab-elzoheiry
+- 👀 I’m interested in data analysis and machine learning
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on any project
+- 📫 And this how you can reach me, shehab.elzohairy@gmail.com
